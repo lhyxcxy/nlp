@@ -1,8 +1,6 @@
 # lhy-nlp
-<p>
-	<span style="color:#33cc00;font-size:14px;">如果您喜欢，请点一下</span><strong><span style="font-size:18px;color:#ff0000;">star</span></strong><span style="color:#33cc00;font-size:14px;">,我会持续更新其他好玩的东西。</span>
-</p>
- 
+
+ #如果您喜欢，请点一下star,我会持续更新其他好玩的东西。
 各种nlp 工具的使用包括 word2vec nltk textblob crf++ 等
 <pre name="code" class="python">（1）机器人
 （2）中文翻译，及繁体转简体
