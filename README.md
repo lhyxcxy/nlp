@@ -1,6 +1,6 @@
 # lhy-nlp
 
-各种nlp 工具的使用包括 word2vec nltk textblob crf++ 等
+使用包括 word2vec nltk textblob crf++ 等
 <pre name="code" class="python">（1）机器人
 （2）中文翻译，及繁体转简体
 （3）关键词提取，主题提取，摘要提取
