@@ -1,6 +1,7 @@
 # lhy-nlp
 
 集成各种nlp框架
+
 使用包括 word2vec nltk textblob crf++ 等
 <pre name="code" class="python">（1）机器人
 （2）中文翻译，及繁体转简体
